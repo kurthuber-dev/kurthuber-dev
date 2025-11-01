@@ -15,7 +15,9 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/kurthuber-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@-" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate FiveM & fullstack developer, creating immersive and optimized GTA V roleplay experiences. Skilled in both client-side and server-side scripting, with a strong focus on performance, realism, and user immersion.
+
+💡 Also developing custom scripts and applications for various clients and platforms, delivering efficient, scalable, and user-focused solutions across multiple technologies.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
