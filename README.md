@@ -39,6 +39,8 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=kurthuber-dev&theme=transparent&hide_border=true&border_radius=30&date_format=d+F%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200&icon_color=ff8b3c&text_color=fffff&title_color=fffff&stroke=ff8b3c&ring=ff8b3c&fire=cc6f30&sideNums=ff8b3c&sideLabels=f28338&dates=8e8e8e&currStreakNum=ffff&currStreakLabel=f28338" alt="GitHub streak Card" />
 </p>
 
+![kurthuber-dev trophies](https://github-profile-trophy.vercel.app/?username=kurthuber-dev&theme=oldie&row=1&column=6&no-bg=true&no-frame=true)
+
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://paypal.me/-" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://ko-fi.com/-" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=flat&logo=kofi&logoColor=Black" height="28" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/-" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat&logo=buy-me-a-coffee&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.patreon.com/-" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white" height="28" style="margin-right: 4px"></a></p>
