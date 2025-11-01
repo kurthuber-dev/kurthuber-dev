@@ -44,15 +44,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kurthuber-dev&theme=ayu-mirage&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kurthuber-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://count.getloli.com/@:kurthuber-dev?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
  **<h3 align="left">Support Me</h3>**
 
