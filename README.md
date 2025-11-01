@@ -42,7 +42,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kurthuber-dev&theme=ayu-mirage&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=kurthuber-dev&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kurthuber-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
