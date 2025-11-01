@@ -31,8 +31,10 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kurthuber-dev&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&line_height=25&rank_icon=github&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cdiscussions_answered&text_bold=false&ring_color=ff8b3c&icon_color=ff8b3c&text_color=ffff&title_color=ffff&hide_border=true" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurthuber-dev&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&layout=donut&langs_count=5&card_width=400&hide_progress=false&hide_border=true&icon_color=ff8b3c&title_color=ffff&text_color=ff8b3c" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kurthuber-dev&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&line_height=25&rank_icon=github&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cdiscussions_answered&text_bold=false&ring_color=ff8b3c&icon_color=ff8b3c&text_color=ffff&title_color=ffff&hide_border=true" alt="GitHub stats Card" /></p>
+
+<p align="left">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurthuber-dev&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&layout=donut&langs_count=5&card_width=400&hide_progress=false&hide_border=true&icon_color=ff8b3c&title_color=ffff&text_color=ff8b3c" alt="GitHub top-langs Card" />
 </p>
 
 <p align="left">
