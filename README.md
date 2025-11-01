@@ -50,6 +50,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kurthuber-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+<div align="center">
+  <img src="https://count.getloli.com/@:kurthuber-dev?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://paypal.me/-" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://ko-fi.com/-" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=flat&logo=kofi&logoColor=Black" height="28" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/-" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat&logo=buy-me-a-coffee&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.patreon.com/-" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white" height="28" style="margin-right: 4px"></a></p>
