@@ -19,10 +19,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 💼 I'm currently working on: **💻 Developing a custom FiveM Roleplay Server with advanced scripts using Lua and other small scripting Projects**
+- 🌱 I'm currently learning: **📚 FiveM natives, development, and optimizing server performance with Ox_Lib**
+- 💬 Ask me about: **💡 iveM scripting, Lua, JavaScript, ESX, NUI design, and server optimization for GTA V RP**
+- ⚡ Fun fact: **I once fixed a broken FiveM resource while in the middle of a chase on my own RP server!**
 
  **<h3 align="left">Skills</h3>**
 
