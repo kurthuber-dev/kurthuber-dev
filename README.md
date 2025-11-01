@@ -1,79 +1,44 @@
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
+![👋 Hi, my name is Flolo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=kurthuber-dev&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Flolo
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-###
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/kurthuber-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@-" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurthuber-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurthuber-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kurthuber-dev&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=kurthuber-dev&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurthuber-dev&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&title_color=ff8b3c&point=ff8b3c&area_color=f28338&line=ff8b3c&color=ff8b3c" height="300" alt="activity-graph graph"  />
-</div>
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-###
+**<h3 align="left">Rapid Fire</h3>**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-</div>
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-###
+ **<h3 align="left">Skills</h3>**
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=typescript" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=cpp" height="28" alt="C++" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=lua" height="28" alt="Lua" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=angular" height="28" alt="Angular" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sqlite" height="28" alt="SQLite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=visualstudio" height="28" alt="Visualstudio" style="margin-right: 4px"></div>
 
-###
+ **<h3 align="left">GitHub Stats</h3>**
 
-<br clear="both">
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kurthuber-dev&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&line_height=25&rank_icon=github&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cdiscussions_started%2Cdiscussions_answered&text_bold=false&ring_color=ff8b3c&icon_color=ff8b3c&text_color=ffff&title_color=ffff&hide_border=true" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurthuber-dev&theme=transparent&cache_seconds=1800&border_radius=4&hide_title=false&layout=donut&langs_count=5&card_width=400&hide_progress=false&hide_border=true&icon_color=ff8b3c&title_color=ffff&text_color=ff8b3c" alt="GitHub top-langs Card" />
+</p>
 
-<img src="https://raw.githubusercontent.com/kurthuber-dev/kurthuber-dev/output/snake.svg" alt="Snake animation" />
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=kurthuber-dev&theme=transparent&hide_border=true&border_radius=30&date_format=d+F%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200&icon_color=ff8b3c&text_color=fffff&title_color=fffff&stroke=ff8b3c&ring=ff8b3c&fire=cc6f30&sideNums=ff8b3c&sideLabels=f28338&dates=8e8e8e&currStreakNum=ffff&currStreakLabel=f28338" alt="GitHub streak Card" />
+</p>
 
-###
+ **<h3 align="left">Support Me</h3>**
 
-<div align="center">
-  <img src="https://count.getloli.com/@:kurthuber-dev?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kurthuber-dev/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kurthuber-dev/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kurthuber-dev/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kurthuber-dev/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kurthuber-dev/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@kurthuber-dev/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
+<p align="left"><a href="https://paypal.me/-" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://ko-fi.com/-" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=flat&logo=kofi&logoColor=Black" height="28" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/-" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat&logo=buy-me-a-coffee&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.patreon.com/-" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white" height="28" style="margin-right: 4px"></a></p>
